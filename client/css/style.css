@@ -1,0 +1,9 @@
+#mapid { 
+    height: 80vh;
+    width: 60vw; 
+    margin: auto;
+}
+
+.map-image-preview {
+    width: 70%;
+}
